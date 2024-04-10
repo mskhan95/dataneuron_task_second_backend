@@ -50,7 +50,7 @@ The API is currently deployed at: https://dataneuron-m6yg.onrender.com
      }
      ```
 
-## Deployed Backend
+## Backend GitHub
 
 The backend for this project is deployed on Render and can be accessed [here](https://github.com/mskhan95/dataneuron_task_second_backend).
 
